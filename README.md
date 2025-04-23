@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Nihal Mishra
 
-I'm a passionate Backend Developer with **2+ years of experience in PHP & Laravel ** and **1 year of hands-on experience in Python** development. I focus on building scalable, efficient, and secure applications.
+Passionate Full Stack Developer with a deep love for crafting clean, maintainable, and scalable backends. I specialize in Python + FastAPI, leveraging Pydantic models and strict type hinting to build robust, developer-friendly, and production-ready APIs. Whether it’s optimizing Laravel apps or deploying FastAPI services on AWS with DynamoDB, I’m all about building systems that scale and perform.
+
 
 ### 💼 Tech Experience
 - 🧠 Proficient in **Laravel** – built and maintained full-scale web applications with advanced backend features.
